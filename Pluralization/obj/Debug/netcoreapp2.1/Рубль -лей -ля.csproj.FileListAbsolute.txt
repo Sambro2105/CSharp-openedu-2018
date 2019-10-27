@@ -1,0 +1,11 @@
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\bin\Debug\netcoreapp2.1\Рубль -лей -ля.dll.config
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\bin\Debug\netcoreapp2.1\Рубль -лей -ля.deps.json
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\bin\Debug\netcoreapp2.1\Рубль -лей -ля.runtimeconfig.json
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\bin\Debug\netcoreapp2.1\Рубль -лей -ля.runtimeconfig.dev.json
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\bin\Debug\netcoreapp2.1\Рубль -лей -ля.dll
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\bin\Debug\netcoreapp2.1\Рубль -лей -ля.pdb
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\obj\Debug\netcoreapp2.1\Рубль -лей -ля.csprojAssemblyReference.cache
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\obj\Debug\netcoreapp2.1\Рубль -лей -ля.AssemblyInfoInputs.cache
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\obj\Debug\netcoreapp2.1\Рубль -лей -ля.AssemblyInfo.cs
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\obj\Debug\netcoreapp2.1\Рубль -лей -ля.dll
+C:\Users\Sambro\RiderProjects\LearningCSharp\Рубль -лей -ля\obj\Debug\netcoreapp2.1\Рубль -лей -ля.pdb
