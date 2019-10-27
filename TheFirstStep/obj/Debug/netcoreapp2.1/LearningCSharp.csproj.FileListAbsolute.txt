@@ -1,0 +1,10 @@
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp2.1\LearningCSharp.deps.json
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp2.1\LearningCSharp.runtimeconfig.json
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp2.1\LearningCSharp.runtimeconfig.dev.json
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp2.1\LearningCSharp.dll
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp2.1\LearningCSharp.pdb
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp2.1\LearningCSharp.csprojAssemblyReference.cache
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp2.1\LearningCSharp.AssemblyInfoInputs.cache
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp2.1\LearningCSharp.AssemblyInfo.cs
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp2.1\LearningCSharp.dll
+C:\Users\Sambro\RiderProjects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp2.1\LearningCSharp.pdb
