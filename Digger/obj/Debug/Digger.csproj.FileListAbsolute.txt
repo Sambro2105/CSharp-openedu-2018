@@ -1,0 +1,15 @@
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\Images\Digger.png
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\Images\Gold.png
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\Images\Monster.png
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\Images\Sack.png
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\Images\Terrain.png
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\11-digger.exe.config
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\11-digger.exe
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\11-digger.pdb
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\bin\Debug\nunit.framework.dll
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\obj\Debug\11-digger.exe
+C:\Users\Sambro\RiderProjects\LearningCSharp\Digger\obj\Debug\11-digger.pdb
